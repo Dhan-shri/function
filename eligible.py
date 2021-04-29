@@ -1,3 +1,4 @@
+# write a code for eligibility of age 
 
 def eligible_for_vote(age):
     if age>=18:

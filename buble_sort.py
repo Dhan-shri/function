@@ -1,3 +1,5 @@
+# make a program for bubble short
+
 def bubble_sort(num):
     i=0
     while i<len(num):

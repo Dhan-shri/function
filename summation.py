@@ -1,3 +1,5 @@
+# write a code for summation of three numbers
+
 def summation(a,b,c):
     sum=a+b+c
     print("Sum of three number",sum)

@@ -1,3 +1,5 @@
+# write a code for the highest birthday candle count
+
 def birthday_cake_Candles(candles):
     a=max(candles)
     count_candle=0

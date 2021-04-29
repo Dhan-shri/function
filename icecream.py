@@ -20,14 +20,14 @@
 
 
 
-# def icecream(*flavours):
-#  for flavour in flavours:
-#   print("i love"+flavour)
+def icecream(*flavours):
+ for flavour in flavours:
+  print("i love"+flavour)
 
-# icecream("chocolate", "butterscotch","vanilla","strawberry") 
+icecream("chocolate", "butterscotch","vanilla","strawberry") 
 
-i=0
-while i<=100:
-    if i%7==0:
-        print(i)
-    i=i+1
+# i=0
+# while i<=100:
+#     if i%7==0:
+#         print(i)
+#     i=i+1
